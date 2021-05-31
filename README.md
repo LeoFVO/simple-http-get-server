@@ -15,4 +15,8 @@ HTTP GET only
     --root root folder (/tmp/pima by default)
     --ip IP served (0.0.0.0 by default)
     --port TCP port (8080 by default)
-# simple-http-get-server
+
+    
+## Get started
+Start project using  
+`cargo run`
